@@ -1,0 +1,11 @@
+{
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
+  "ignoreCommand": "echo 'Ignoring GitHub uploads...'",
+  "routes": [
+    { "src": "/api/.*", "dest": "/api/video.js" }
+  ]
+}
