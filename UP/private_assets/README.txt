@@ -1,0 +1,1 @@
+Folder ini hanya ada di Vercel dan tidak akan diupload ke GitHub.
