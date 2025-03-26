@@ -1,0 +1,10 @@
+{
+    "name": "vercel-hidden-assets",
+    "version": "1.0.0",
+    "description": "Website dengan video tersembunyi di Vercel",
+    "main": "api/video.js",
+    "scripts": {
+        "start": "node api/video.js"
+    },
+    "dependencies": {}
+}
